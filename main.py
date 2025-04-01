@@ -24,5 +24,5 @@ if __name__ == '__main__':
     for extension in extensions:
         bot.load_extension(extension)
 
-load_dotenv()
+
 bot.run(os.getenv('DISCORD_BOT_TOKEN'))
