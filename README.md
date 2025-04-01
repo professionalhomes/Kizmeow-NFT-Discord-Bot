@@ -21,13 +21,7 @@ Kizmeow is an open-source NFT Discord bot developed with Python. Kizmeow can:
     <img src="https://raw.githubusercontent.com/Xeift/Kizmeow-NFT-Discord-Bot/refs/heads/main/img/asset/invite_btn.png" width="150">
   </a>
 </p>
-
-
-# Contact Info
-| Platform  | Username |
-|-----------|----------|
-| Discord   | [@xeift](https://discord.com/users/874806243208871977) |
-| Telegram  | [@Xeift](https://t.me/Xeift)                           |
+                         |
 
 
 ![Kizmeow Icon](https://user-images.githubusercontent.com/80938768/204983971-d7cf0e40-f4ce-4737-ba07-85ed62112dab.png)
